@@ -1,0 +1,2 @@
+# RTC_CAN_PCB
+PCB Diptrace: RTC (DS134033) on PIC18F2480 with CAN bus (MCP2551) 
